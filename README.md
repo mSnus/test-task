@@ -2,7 +2,7 @@
 
 написать приложение "Круги и квадраты" с использованием React+Redux+Axios.
 
-Данные для приложения - файл test.json
+Данные для приложения - файл [/data/test.json](data/test.json)
 
 Приложение отображает объекты из файла данных. 
 Каждый объект имеет следующие параметры:
@@ -18,4 +18,5 @@
 
 Вёрстка/дизайн неважны, интересует именно React.
 
-Ссылка на макет: https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?node-id=0%3A1
+- [ссылка на макет Figma](https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?node-id=0%3A1)
+- [прототип в PNG](proto/)
