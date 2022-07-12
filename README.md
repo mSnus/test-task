@@ -1,6 +1,6 @@
 # Тестовое задание:
 
-написать приложение "Круги и квадраты" с использованием React+Redux+Axios.
+Написать приложение "Круги и квадраты" с использованием React+Redux+Axios.
 
 Выглядеть должно примерно так:
 - [ссылка на макет Figma](https://www.figma.com/file/DaktkhoeaQEUagJ03Gk3r1/circles_and_squares_1?node-id=0%3A1)
